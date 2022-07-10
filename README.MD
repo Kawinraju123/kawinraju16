@@ -13,9 +13,9 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/adarsh-goel/FileStreamBotpro/issues">Report a Bug</a>
+    <a href="https://github.com/kawinraju123/kawinraju16/issues">Report a Bug</a>
     |
-    <a href="https://github.com/adarsh-goel/FileStreamBot-pro/issues">Request Feature</a>
+    <a href="https://github.com/kawinraju123/kawinraju16/issues">Request Feature</a>
   </p>
 
 
